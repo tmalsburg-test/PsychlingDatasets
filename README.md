@@ -30,4 +30,3 @@ Entries are separated by a horzontal rule (`---`).
 **Link:** https://github.com/bnicenboim/papers/tree/master/NicenboimEtAl2016.%20When%20High-Capacity%20Readers%20Slow%20Down%20and%20Low-Capacity%20Readers%20Speed%20Up:%20Working%20Memory%20and%20Locality%20Effects
 
 ---
-
